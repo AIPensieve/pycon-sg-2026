@@ -1,4 +1,4 @@
-# pycon-sg-2026
+# Her Otta Lah Pycon-sg-2026
 Initial PyCon SG hackathon submission for track2
 Her Otta  Lah: Singapore OtterAI Menopause Companion
 
